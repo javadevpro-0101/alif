@@ -1,0 +1,5 @@
+{
+  "name": "Baholar Tizimi - School Management System",
+  "description": "A comprehensive school management system with roles for Admin, Teacher, Student, and Parent, featuring grade tracking, attendance, and class management.",
+  "requestFramePermissions": []
+}
